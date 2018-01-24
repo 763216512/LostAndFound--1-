@@ -1,0 +1,86 @@
+﻿body {
+    background-color:#C4E1FF;
+}
+.formheader{
+    width:100%;
+    height:250px;
+}
+.sheet1{
+    width:25%;
+    float:left;
+    height:30%;
+    background-color:#0080ff;
+    text-align:center;
+    color:#fff;
+    font-size:100%;
+}
+.sheet2{
+    width:25%;
+    float:left;
+    height:30%;
+    background-color:#2894ff;
+    text-align:center;
+    color:#fff;
+    font-size:40px;
+
+}
+.formbody{
+    width:100%;
+}
+.message{
+    width:95%;
+    background-color:#fff;
+    height:300px;
+    margin:0 auto;
+    border-radius:10px;
+    margin-top:20px;
+    
+}
+.message_pic{
+    width:300px;
+    height:300px;
+    float:left;
+}
+.pic_1{
+    width:280px;
+    height:280px;
+    margin-top:10px;
+    margin-left:10px;
+}
+.message_page {
+    height:280px;
+    float:left;
+    margin:10px;
+}
+.page_title {
+    color:#2894ff;
+    font-size:40px;
+    font-weight:900;
+}
+.page_time {
+    font-size:30px;
+    color:#808080;
+    font-weight:700;
+}
+.page_place {
+    font-size:30px;
+    color:#808080;
+    font-weight:700;
+}
+.formfoot{
+    width:100%;
+    height:100px;
+    position:fixed;
+    margin:0 auto;
+    background-color:#2894ff;
+    bottom:0;
+    text-align:center;
+}
+.foot_meau {
+    width:20%;
+    height:100px;
+    float:left;
+}
+.meau_pic {
+    width:100px;
+}
